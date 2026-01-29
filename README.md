@@ -13,7 +13,7 @@ Your assignment:
 6. Push the new branch to your fork on GitHub
 7. Add your name to names.md on the new branch
 8. Stage your changes and then push to your fork on GitHub while on the branch
-9. Open a pull request to the original repository to merge your changes to names.md to the original repo (you will get credit for your name appearing in names.md after the PR is approved)
+9. Open a pull request to the original repository to merge your changes to names.md to the original repo (you will get credit for making a PR)
 
 Feel free to message me on Discord or email me with any issues/questions!
 
